@@ -1,5 +1,4 @@
 {
   "name":"jiya"
-  "name2":"avnit"
 
 }
