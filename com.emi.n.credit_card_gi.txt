@@ -6,7 +6,8 @@
   "back1":"ca-app-pub-3940256099942544/1033173712",
   "back2":"ca-app-pub-3940256099942544/1033173712",
   "back3":"ca-app-pub-3940256099942544/1033173712",
-  "lottie":"true"
+  "lottie":"true",
+  "intro":"false"
 
 
 
