@@ -7,7 +7,7 @@
   "back2":"ca-app-pub-3940256099942544/1033173712",
   "back3":"ca-app-pub-3940256099942544/1033173712",
   "open":"ca-app-pub-3940256099942544/9257395921",
-  "nativeapp":"fa4c5907b6e79c51",
+  "nativeapp":"36a2b6284765cb67",
   "appleint":"36b3638b670dadf6",
   "lottie":"true",
   "intro":"true",
