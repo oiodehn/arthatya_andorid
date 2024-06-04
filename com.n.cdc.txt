@@ -11,7 +11,7 @@
   "appleint":"36b3638b670dadf6",
   "lottie":"true",
   "intro":"true",
-  "mac":"true"
+  "mac":"false"
 
 
 
