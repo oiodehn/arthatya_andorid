@@ -10,7 +10,7 @@
   "nativeapp":"ca-app-pub-3940256099942544/9257395921",
   "lottie":"true",
   "intro":"false",
-  "mac":"true"
+  "mac":"false"
 
 
 
