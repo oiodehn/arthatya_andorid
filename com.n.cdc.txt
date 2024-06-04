@@ -8,6 +8,7 @@
   "back3":"ca-app-pub-3940256099942544/1033173712a",
   "appopen":"ca-app-pub-3940256099942544/9257395921",
   "nativeapp":"ca-app-pub-3940256099942544/9257395921",
+  "appleint":"ca-app-pub-3940256099942544/9257395921",
   "lottie":"true",
   "intro":"false",
   "mac":"false"
