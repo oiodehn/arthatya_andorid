@@ -6,8 +6,8 @@
   "intro":"true",
   "buttonvi":"false",
   "buttonen":"true",
-"inter_url":"https://colorhunt.co/",
-"native_on_off":"true"
+  "inter_url":"https://colorhunt.co/",
+  "native_on_off":"true"
 
 
 
