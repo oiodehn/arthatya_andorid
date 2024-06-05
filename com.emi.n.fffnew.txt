@@ -2,6 +2,7 @@
   "url":"https://www.google.com/search?q=image&oq=image&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg7MgoIAhAAGLEDGIAEMgoIAxAAGLEDGIAEMgwIBBAAGEMYgAQYigUyBggFEEUYPTIGCAYQRRg9MgYIBxBFGDzSAQgxNjg2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#vhid=tYmxDgFq4MrkJM&vssid=l",
   "native_url":"https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
   "native":"ca-app-pub-3940256099942544/2247696110",
+  "banner_url":"https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
   "lottie":"false",
   "intro":"true",
   "buttonvi":"true",
