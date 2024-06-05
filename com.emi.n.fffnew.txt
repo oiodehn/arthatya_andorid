@@ -4,10 +4,10 @@
   "native":"ca-app-pub-3940256099942544/2247696110",
   "lottie":"true",
   "intro":"true",
-  "buttonvi":"false",
+  "buttonvi":"true",
   "buttonen":"true",
   "inter_url":"https://colorhunt.co/",
-  "native_on_off":"true"
+  "native_on_off":"false"
 
 
 
