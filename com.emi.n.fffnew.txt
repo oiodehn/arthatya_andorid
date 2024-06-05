@@ -7,9 +7,7 @@
   "intro":"true",
   "buttonvi":"true",
   "buttonen":"true",
-  "inter_url":"https://colorhunt.co/",
-  "native_on_off":"false"
-
+  "inter_url":"https://colorhunt.co/"
 
 
 }
