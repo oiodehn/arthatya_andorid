@@ -1,5 +1,10 @@
 {
-  "name":"ca-app-pub-3940256099942544/9257395921",
-  "name2":"Av"
+  "native_url":"ca-app-pub-3940256099942544/9257395921",
+  "url":"Av",
+  "lottie":"true",
+  "intro":"true",
+  "buttonvi":"true",
+  "buttonen":"true"
+
 
 }
