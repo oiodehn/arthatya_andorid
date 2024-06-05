@@ -7,7 +7,7 @@
   "buttonvi":"false",
   "buttonen":"true",
 "inter_url":"https://colorhunt.co/",
-"native_on_off":"false"
+"native_on_off":"true"
 
 
 
