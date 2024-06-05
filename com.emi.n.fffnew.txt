@@ -4,7 +4,8 @@
   "lottie":"true",
   "intro":"true",
   "buttonvi":"false",
-  "buttonen":"true"
+  "buttonen":"true",
+"inter_url":"https://colorhunt.co/"
 
 
 }
