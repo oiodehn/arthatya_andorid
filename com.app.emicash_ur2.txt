@@ -8,7 +8,7 @@
   "back3":"ca-app-pub-3940256099942544/1033173712a",
   "appopen":"ca-app-pub-3940256099942544/9257395921a",
   "lottie":"false",
-  "intro":"false",
+  "intro":"false"
 
 
 
