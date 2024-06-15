@@ -1,5 +1,5 @@
 {
-  "Marketing":"0",
+  "Marketing":"1",
   "SNative":"1",
   "Interid":"ca-app-pub-3940256099942544/1033173712",
   "NativeId1":"sdfdf",
