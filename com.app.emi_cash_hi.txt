@@ -1,14 +1,14 @@
 {
-  "native":"/21753324030,23018923517/com.app.emicash_ur2_Native",
-  "inter1":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "inter2":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "inter3":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "back1":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "back2":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "back3":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "appopen":"ca-app-pub-3940256099942544/9257395921",
+  "native":"/21753324030,23018923517/com.app.emicash_ur2_Native3",
+  "inter1":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial3",
+  "inter2":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial3",
+  "inter3":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial3",
+  "back1":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial3",
+  "back2":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial3",
+  "back3":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial3",
+  "appopen":"ca-app-pub-3940256099942544/92573959212",
   "lottie":"false",
-  "intro":"true"
+  "intro":"false"
 
 
 
