@@ -1,12 +1,12 @@
 {
-  "native":"ca-app-pub-3940256099942544/2247696110",
-  "inter1":"ca-app-pub-3940256099942544/1033173712",
-  "inter2":"ca-app-pub-3940256099942544/1033173712",
-  "inter3":"ca-app-pub-3940256099942544/1033173712",
-  "back1":"ca-app-pub-3940256099942544/1033173712",
-  "back2":"ca-app-pub-3940256099942544/1033173712",
-  "back3":"ca-app-pub-3940256099942544/1033173712",
-  "appopen":"ca-app-pub-3940256099942544/9257395921",
+  "native":"/21753324030,23018923517/com.app.emicash_ur2_Native",
+  "inter1":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
+  "inter2":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
+  "inter3":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
+  "back1":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
+  "back2":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
+  "back3":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
+  "appopen":"/21753324030,23018923517/com.app.emicash_ur2_AppOpen",
   "lottie":"true",
   "intro":"true"
 
