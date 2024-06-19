@@ -1,6 +1,6 @@
 {
   "url":"https://8645.play.gamezop.com/",
-  "banner_url":"https://leotriplet.com/assets/cutomads/gamezop-banner.png",
+  "banner_url":"https://leotriplet.com/assets/cutomads/adbanner-diamond.png",
   "native_url":"https://leotriplet.com/assets/cutomads/adbanner.png",
   "lottie":"false",
   "intro":"true",
