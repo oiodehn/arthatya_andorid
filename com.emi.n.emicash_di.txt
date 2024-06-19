@@ -1,5 +1,6 @@
 {
   "url":"https://8645.play.gamezop.com/",
+  "banner_url":"",
   "native_url":"https://leotriplet.com/assets/cutomads/adbanner2.png",
   "lottie":"false",
   "intro":"true",
