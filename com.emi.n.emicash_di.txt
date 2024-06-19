@@ -7,7 +7,7 @@
   "intro":"true",
   "buttonvi":"true",
   "buttonen":"true",
-  "inter_url":"https://play676.atmequiz.com/"
+  "inter_url":"https://8645.play.gamezop.com/"
 
 
 }
