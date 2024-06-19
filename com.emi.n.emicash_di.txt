@@ -1,5 +1,5 @@
 {
-  "url":"https://play676.atmequiz.com/",
+  "url":"https://8645.play.gamezop.com/",
   "native_url":"https://leotriplet.com/assets/cutomads/adbanner2.png",
   "lottie":"false",
   "intro":"true",
