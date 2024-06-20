@@ -6,8 +6,8 @@
 "nativeapple":"asas",
 "appleint":"dsds",
 "loadads":"true",
-  "lottie":"false",
-  "intro":"true"
+  "lottie":"true",
+  "intro":"false"
 
 
 
