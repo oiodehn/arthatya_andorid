@@ -11,7 +11,7 @@
 "appleint":"dsds",
 "loadads":"true",
   "lottie":"false",
-  "intro":"false"
+  "intro":"true"
 
 
 
