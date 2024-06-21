@@ -8,7 +8,7 @@
   "loadads":"true",
   "lottie":"false",
   "intro":"true",
-  "interads":"false"
+  "interads":"true"
 
 
 
