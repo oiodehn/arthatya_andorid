@@ -1,11 +1,11 @@
 {
   "native":"ca-app-pub-3940256099942544/2247696110",
-  "inter1":"ca-app-pub-3940256099942544/1033173712",
+  "inter1":"ca-app-pub-3940256099942544/1033173712a",
   "backad":"ca-app-pub-3940256099942544/1033173712",
   "appopen":"ca-app-pub-3940256099942544/9257395921",
 "nativeapple":"asas",
 "appleint":"dsds",
-"loadads":"true",
+"loadads":"false",
   "lottie":"true",
   "intro":"true"
 
