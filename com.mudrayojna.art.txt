@@ -3,12 +3,12 @@
   "inter1":"ca-app-pub-3940256099942544/1033173712a",
   "backad":"ca-app-pub-3940256099942544/1033173712",
   "appopen":"ca-app-pub-3940256099942544/9257395921a",
-"nativeapple":"asas",
-"appleint":"dsds",
-"loadads":"false",
-  "lottie":"true",
+  "nativeapple":"asas",
+  "appleint":"dsds",
+  "loadads":"false",
+  "lottie":"false",
   "intro":"true",
-"interads":"false"
+  "interads":"false"
 
 
 
