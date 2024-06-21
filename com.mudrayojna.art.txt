@@ -7,7 +7,7 @@
 "appleint":"dsds",
 "loadads":"true",
   "lottie":"true",
-  "intro":"true"
+  "intro":"false"
 
 
 
