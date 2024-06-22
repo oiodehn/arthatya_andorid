@@ -7,7 +7,7 @@
   "back2":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
   "back3":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
   "appopen":"/21753324030,23018923517/com.app.emicash_ur2_AppOpen",
-  "lottie":"true",
+  "lottie":"false",
   "intro":"true"
 
 
