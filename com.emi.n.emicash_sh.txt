@@ -7,8 +7,8 @@
   "back2":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial
   "back3":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
   "appopen":"",
-  "lottie":"true",
-  "intro":"true"
+  "lottie":"false",
+  "intro":"false"
 
 
 
