@@ -8,7 +8,7 @@
   "back3":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
   "appopen":"ca-app-pub-3940256099942544/9257395921a",
   "lottie":"false",
-  "intro":"true"
+  "intro":"false"
 
 
 
