@@ -1,18 +1,69 @@
 {
-  "native":"ca-app-pub-3940256099942544/2247696110",
-  "inter1":"ca-app-pub-3940256099942544/1033173712",
-  "inter2":"ca-app-pub-3940256099942544/1033173712",
-  "inter3":"ca-app-pub-3940256099942544/1033173712",
-  "back1":"ca-app-pub-3940256099942544/1033173712",
-  "back2":"ca-app-pub-3940256099942544/1033173712",
-  "back3":"ca-app-pub-3940256099942544/1033173712",
-  "appopen":"ca-app-pub-3940256099942544/9257395921",
-"native_fb":"IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
-  "lottie":"true",
-"loadads":"true",
-"loadads2":"false",
-  "intro":"false"
-
-
-
+  "ADS_CHANGE_COUNTER": 3,
+  "ADS_TYPE": 1,
+  "COUNTER": 2,
+  "CUSTOM_AD_SHOW": 0,
+  "SHOW_AD": false,
+  "SPLASH_AD_SHOW": true,
+  "APPLOVIN_AO": [
+    "AD_ID 1",
+    "AD_ID 2"
+  ],
+  "APPLOVIN_B": [
+    "AD_ID",
+    "AD_ID 2"
+  ],
+  "APPLOVIN_I": [
+    "AD_ID",
+    "AD_ID 2"
+  ],
+  "APPLOVIN_N": [
+    "AD_ID",
+    "AD_ID 2"
+  ],
+  "APPLOVIN_R": [
+    "AD_ID",
+    "AD_ID 2"
+  ],
+  "FACEBOOK_B": [
+    "AD_ID",
+    "AD_ID 2"
+  ],
+  "FACEBOOK_I": [
+    "AD_ID",
+    "AD_ID 2"
+  ],
+  "FACEBOOK_N": [
+    "AD_ID",
+    "AD_ID 2"
+  ],
+  "FACEBOOK_R": [
+    "AD_ID",
+    "AD_ID 2"
+  ],
+  "GOOGLE_AO": [
+    "ca-app-pub-3940256099942544/9257395921"
+  ],
+  "GOOGLE_B": [
+    "ca-app-pub-3940256099942544/6300978111"
+  ],
+  "GOOGLE_I": [
+    "ca-app-pub-3940256099942544/1033173712"
+  ],
+  "GOOGLE_N": [
+    "ca-app-pub-3940256099942544/2247696110"
+  ],
+  "GOOGLE_R": [
+    "ca-app-pub-3940256099942544/5224354917"
+  ],
+  "GAME_ZOP": {
+    "SHOW_GAME": true,
+    "GAME_LINK": "https://8914.play.gamezop.com/",
+    "GAME_IMAGES": [
+      "https://unityitsolution.com/storage/GameZop/game_banner1.jpg",
+      "https://unityitsolution.com/storage/GameZop/game_banner2.jpg",
+      "https://unityitsolution.com/storage/GameZop/game_banner3.jpg",
+      "https://unityitsolution.com/storage/GameZop/game_banner4.jpg"
+    ]
+  }
 }
