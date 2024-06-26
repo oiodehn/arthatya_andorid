@@ -1,6 +1,6 @@
 {
   "native":"/21753324030,23018923517/com.emi.n.emicash_sh_Native",
-  "inter1":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
+  "inter1":"",
   "inter2":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
   "inter3":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
   "back1":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
