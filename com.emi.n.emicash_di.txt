@@ -1,7 +1,7 @@
 {
   "url":"https://8645.play.gamezop.com/",
   "banner_url":"https://leotriplet.com/assets/cutomads/adbanner-diamond.png",
-  "native_url":"https://leotriplet.com/assets/cutomads/adbanner.png",
+  "native_url":"https://raw.githubusercontent.com/admhardik/check-Fetch/main/fetch/image%2047.png",
   "lottie":"false",
   "intro":"true",
   "buttonvi":"true",
