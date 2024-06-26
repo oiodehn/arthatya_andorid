@@ -2,7 +2,7 @@
   "native":"/21753324030,23018923517/com.emi.n.emicash_sh_Native",
   "inter1":"",
   "inter2":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
-  "inter3":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
+  "inter3":"",
   "back1":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
   "back2":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
   "back3":"/21753324030,23018923517/com.emi.n.emicash_sh_Interstitial",
