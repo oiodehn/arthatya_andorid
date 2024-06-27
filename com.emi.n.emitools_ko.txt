@@ -1,14 +1,14 @@
  {
-  "native":"ca-app-pub-3940256099942544/2247696110a",
-  "inter1":"ca-app-pub-3940256099942544/1033173712a",
-  "inter2":"ca-app-pub-3940256099942544/1033173712a",
-  "inter3":"ca-app-pub-3940256099942544/1033173712a",
-  "back1":"ca-app-pub-3940256099942544/1033173712a",
-  "back2":"ca-app-pub-3940256099942544/1033173712a",
-  "back3":"ca-app-pub-3940256099942544/1033173712a",
-  "appopen":"ca-app-pub-3940256099942544/9257395921a",
+  "native":"/21753324030,23018923517/com.emi.n.emitools_ko_Native",
+  "inter1":"/21753324030,23018923517/com.emi.n.emitools_ko_Interstitial",
+  "inter2":"/21753324030,23018923517/com.emi.n.emitools_ko_Interstitial",
+  "inter3":"/21753324030,23018923517/com.emi.n.emitools_ko_Interstitial",
+  "back1":"/21753324030,23018923517/com.emi.n.emitools_ko_Interstitial",
+  "back2":"/21753324030,23018923517/com.emi.n.emitools_ko_Interstitial",
+  "back3":"/21753324030,23018923517/com.emi.n.emitools_ko_Interstitial",
+  "appopen":"/21753324030,23018923517/com.emi.n.emitools_ko_AppOpen",
   "lottie":"false",
-  "intro":"false"
+  "intro":"true"
 
 
 
