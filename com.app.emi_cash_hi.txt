@@ -1,12 +1,12 @@
 {
-  "native":"/21753324030,23018923517/com.app.emicash_ur2_Native",
-  "inter1":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "inter2":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "inter3":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "back1":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "back2":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "back3":"/21753324030,23018923517/com.app.emicash_ur2_Interstitial",
-  "appopen":"/21753324030,23018923517/com.app.emicash_ur2_AppOpen",
+  "native":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_Native",
+  "inter1":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_Interstitial",
+  "inter2":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_Interstitial",
+  "inter3":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_Interstitial",
+  "back1":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_Interstitial",
+  "back2":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_Interstitial",
+  "back3":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_Interstitial",
+  "appopen":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_AppOpen",
   "lottie":"false",
   "intro":"true"
 
