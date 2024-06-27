@@ -7,7 +7,7 @@
   "back2":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_Interstitial",
   "back3":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_Interstitial",
   "appopen":"/22475853447,22781280039/HardikBhesaniya_com.app.emicash_ur2_AppOpen",
-  "lottie":"false",
+  "lottie":"true",
   "intro":"true"
 
 
