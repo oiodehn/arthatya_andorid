@@ -5,6 +5,7 @@
   "CUSTOM_AD_SHOW": 0,
   "SHOW_AD": false,
   "SPLASH_AD_SHOW": true,
+"SHOW_INTRO":true,
   "APPLOVIN_AO": [
     "AD_ID 1",
     "AD_ID 2"
