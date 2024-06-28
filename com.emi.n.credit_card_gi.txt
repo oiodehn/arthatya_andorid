@@ -1,6 +1,6 @@
 {
   "ADS_CHANGE_COUNTER": 3,
-  "ADS_TYPE": 1,
+  "ADS_TYPE": 3,
   "COUNTER": 2,
   "CUSTOM_AD_SHOW": 0,
   "SHOW_AD": true,
