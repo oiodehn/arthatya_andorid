@@ -1,5 +1,5 @@
 {
-  "url":"https://8645.play.gamezop.com/",
+  "url":"https://721.play.online.thopgames.com/",
   "banner_url":"https://raw.githubusercontent.com/admhardik/check-Fetch/main/fetch/image%2054.png",
   "native_url":"https://raw.githubusercontent.com/admhardik/check-Fetch/main/fetch/image%2047.png",
   "lottie":"false",
