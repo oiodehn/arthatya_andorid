@@ -3,7 +3,7 @@
   "ADS_TYPE": 1,
   "COUNTER": 2,
   "CUSTOM_AD_SHOW": 0,
-  "SHOW_AD": true,
+  "SHOW_AD": false,
   "SPLASH_AD_SHOW": true,
   "SHOW_INTRO": true,
   "APPLOVIN_AO": [
