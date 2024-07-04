@@ -15,11 +15,9 @@
     "AD_ID 2"
   ],
   "APPLOVIN_I": [
-    "36b3638b670dadf6",
     "36b3638b670dadf6"
   ],
   "APPLOVIN_N": [
-    "fa4c5907b6e79c51",
     "fa4c5907b6e79c51"
   ],
   "APPLOVIN_R": [
