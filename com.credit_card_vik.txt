@@ -16,7 +16,7 @@
     "36b3638b670dadf6"
   ],
   "APPLOVIN_N": [
-    "fa4c5907b6e79c51"
+    "4cabd6367d0ad78a"
   ],
   "APPLOVIN_R": [
     "AD_ID",
