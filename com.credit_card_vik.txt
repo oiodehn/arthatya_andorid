@@ -4,10 +4,10 @@
   "COUNTER": 1,
   "CUSTOM_AD_SHOW": 0,
   "SHOW_AD": true,
-  "SPLASH_AD_SHOW": false,
+  "SPLASH_AD_SHOW": true,
   "SHOW_INTRO": true,
   "APPLOVIN_AO": [
-    ""
+    "38ecf0b95a47ac93"
   ],
   "APPLOVIN_B": [
     "AD_ID",
