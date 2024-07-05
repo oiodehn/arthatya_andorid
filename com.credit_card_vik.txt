@@ -4,7 +4,7 @@
   "COUNTER": 1,
   "CUSTOM_AD_SHOW": 0,
   "SHOW_AD": true,
-  "SPLASH_AD_SHOW": true,
+  "SPLASH_AD_SHOW": false,
   "SHOW_INTRO": true,
   "APPLOVIN_AO": [
     "38ecf0b95a47ac93"
