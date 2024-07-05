@@ -4,14 +4,13 @@
   "COUNTER": 1,
   "CUSTOM_AD_SHOW": 0,
   "SHOW_AD": true,
-  "SPLASH_AD_SHOW": false,
+  "SPLASH_AD_SHOW": true,
   "SHOW_INTRO": true,
   "APPLOVIN_AO": [
     "38ecf0b95a47ac93"
   ],
   "APPLOVIN_B": [
-    "AD_ID",
-    "AD_ID 2"
+    "AD_ID"
   ],
   "APPLOVIN_I": [
     "36b3638b670dadf6"
