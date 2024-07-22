@@ -5,7 +5,7 @@
   "CUSTOM_AD_SHOW": 0,
   "SHOW_AD": true,
   "SPLASH_AD_SHOW": false,
-  "SHOW_INTRO": true,
+  "SHOW_INTRO": false,
   "APPLOVIN_AO": [
     "ghgj"
   ],
