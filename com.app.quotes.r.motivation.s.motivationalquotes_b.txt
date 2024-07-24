@@ -3,8 +3,8 @@
   "ADS_TYPE": 1,
   "COUNTER": 1,
   "CUSTOM_AD_SHOW": 0,
-  "SHOW_AD": false,
-  "SPLASH_AD_SHOW": false,
+  "SHOW_AD": true,
+  "SPLASH_AD_SHOW": true,
   "SHOW_INTRO": true,
   "APPLOVIN_AO": [
     "ghgj"
@@ -38,16 +38,16 @@
     "AD_ID 2"
   ],
   "GOOGLE_AO": [
-      "ca-app-pub-3940256099942544/9257395921"
+      "/21753324030,23018923517/com.app.quotes.r.motivation.s.motivationalquotes_b_AppOpen"
   ],
   "GOOGLE_B": [
-    "ca-app-pub-3940256099942544/6300978111"
+    "/21753324030,23018923517/com.app.quotes.r.motivation.s.motivationalquotes_b_Banner"
   ],
   "GOOGLE_I": [
-  "ca-app-pub-3940256099942544/1033173712"
+  "/21753324030,23018923517/com.app.quotes.r.motivation.s.motivationalquotes_b_Interstitial"
   ],
   "GOOGLE_N": [
-    "ca-app-pub-3940256099942544/2247696110"
+    "/21753324030,23018923517/com.app.quotes.r.motivation.s.motivationalquotes_b_Native"
   ],
   "GOOGLE_R": [
     "ca-app-pub-3940256099942544/5224354917"
