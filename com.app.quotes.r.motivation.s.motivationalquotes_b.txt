@@ -1,22 +1,22 @@
 {
   "ADS_CHANGE_COUNTER": 3,
-  "ADS_TYPE": 1,
+  "ADS_TYPE": 2,
   "COUNTER": 1,
   "CUSTOM_AD_SHOW": 0,
   "SHOW_AD": true,
   "SPLASH_AD_SHOW": true,
   "SHOW_INTRO": true,
   "APPLOVIN_AO": [
-    "ghgj"
+    "0a17c1c48727f14b"
   ],
   "APPLOVIN_B": [
     "AD_ID"
   ],
   "APPLOVIN_I": [
-    "36b3638b670dadf6"
+    "39e49ba75e931691"
   ],
   "APPLOVIN_N": [
-    "4cabd6367d0ad78a"
+    "853860748cd727eb"
   ],
   "APPLOVIN_R": [
     "AD_ID",
