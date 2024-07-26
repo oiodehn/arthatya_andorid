@@ -7,7 +7,7 @@
   "SPLASH_AD_SHOW": true,
   "SHOW_INTRO": true,
   "APPLOVIN_AO": [
-    "0a17c1c48727f14b"
+    "90"
   ],
   "APPLOVIN_B": [
     "AD_ID"
